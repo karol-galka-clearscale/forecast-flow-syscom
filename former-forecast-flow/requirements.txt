@@ -5,7 +5,7 @@ botocore==1.23.23
 importlib-metadata==4.8.2
 ipython==8.20.0
 jmespath==0.10.0
-joblib==1.1.0
+joblib==1.1.1
 mysqlclient==2.1.0
 numpy==1.22.0
 pandas==1.3.4
@@ -13,7 +13,7 @@ plotly==5.4.0
 python-dateutil==2.8.2
 pytz==2021.3
 s3transfer==0.5.0
-# scikit-learn==1.2.2 # issues for 1.1.1
+scikit-learn==1.2.2 # issues for 1.1.1
 # scipy==1.7.3 # issues, not needed
 six==1.16.0
 SQLAlchemy==1.4.28
